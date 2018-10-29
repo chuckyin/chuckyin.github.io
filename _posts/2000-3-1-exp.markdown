@@ -1,0 +1,10 @@
+---
+layout: default
+img: qualcomm-display.jpg
+category: Experiences
+title: Research Scientist
+description: |
+---
+* Build the structure color powered interferometric modulation display.
+
+* Prototype the first video capable colorful reflective display with front light feature

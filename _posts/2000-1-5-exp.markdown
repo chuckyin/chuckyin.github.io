@@ -1,0 +1,11 @@
+---
+layout: default
+img: square-reader.jpg
+category: Experiences
+title: Sr. Manufacturing Testing Lead
+description: |
+---
+
+* Lead the team to bring up the manufacturing line to build the Square payment hardware. 
+
+* Ship the product with the balance of budget, schedule, design requirement.

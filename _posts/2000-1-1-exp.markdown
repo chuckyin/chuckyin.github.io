@@ -1,0 +1,11 @@
+---
+layout: default
+img: oculus-quest.jpg
+category: Experiences
+title: Automation Engineering Tech Lead
+description: |
+---
+
+* Lead the team to bring up the manufacturing line to build the Oculus VR headset. 
+
+* Ship the product with the balance of design requirement, schedule, budget.

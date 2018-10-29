@@ -1,0 +1,11 @@
+---
+layout: default
+img: apple-display.jpg
+category: Experiences
+title: Sr. Display Hardware Tech Lead
+description: |
+---
+
+* Worked as the first Apple display test engineer, setup the per unit calibration algorithm, software, and station for every iPad/iPhone product.
+
+* Ship the product with the balance of schedule, design requirement, budget.

@@ -1,0 +1,12 @@
+---
+layout: default
+img: OpenExecLogo.PNG
+category: Projects
+title: "One repository run the whole factory line"
+description: Object orientated software framework to enable all kinds of hardware automation station bring-up. 
+---
+
+* Successfully implemented on multiple product lines ranges from smart phone, pad, payment devices to virtual reality headset with total volume > **10 million**
+
+
+* [Object orientated software framework](https://github.com/chuckyin/OpenExec) to enable all kinds of hardware automation station bring-up

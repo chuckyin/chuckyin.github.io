@@ -1,0 +1,11 @@
+---
+layout: default
+img: hsc_logo.png
+category: Projects
+title: Hardware Testing Common is an abstraction common layer shared by all stations
+description: |
+---
+* Abstraction layer of all kind of hardware automation stations which is included in this [repo](https://github.com/chuckyin/factory_test_common)
+
+* Work in progress to make it PIP installable.
+

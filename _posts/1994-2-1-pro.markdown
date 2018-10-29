@@ -1,0 +1,10 @@
+---
+layout: default
+img: instrument_logo.png
+category: Projects
+title: Collection of automated equipment scripts
+description: |
+---
+* [Instruments](https://github.com/chuckyin/Instruments) is a collection of the hardware which I automated across years. 
+
+* It ranges from the widely-used equipments from big names such as National Instruments, Agilent, Newport to niche brand like Sparkfun, Ocean Optics. 

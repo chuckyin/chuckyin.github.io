@@ -1,0 +1,41 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.chuckyin.github.io/
+title: Chuck Yin
+email: chuckyeyin@gmail.com
+author: Chuck Yin
+description: > # "Chuck Yin's Personal Page"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+gems:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - icon: twitter
+    title: twitter
+    url: https://twitter.com/yin_chuck
+  - icon: envelope-o
+    title: email
+    url: mailto:chuckyeyin@gmail.com
+  - icon: github
+    title: github
+    url: https://github.com/chuckyin
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/yeyin
+  - icon: file-pdf-o
+    title: resume
+    url: http://www.chuckyin.github.io/rsc/resume.pdf

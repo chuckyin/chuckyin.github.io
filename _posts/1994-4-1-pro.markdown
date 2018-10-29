@@ -1,0 +1,13 @@
+---
+layout: default
+img: vf_logo.png
+category: Projects
+title: Virtual Factory
+description: |
+---
+
+* Combine the virutal reality to the modern hardware manufacturing. 
+
+* To visualize how the factory runs in virtual reality is challenging but meaningful. This project will allow the user to see a virtual world of hardware manufacturing. WIP
+
+* Stealth mode for now. Sorry, cannot open-source at this moment.
